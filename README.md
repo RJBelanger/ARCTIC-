@@ -29,6 +29,7 @@ Welcome to the README file for our automated penetration testing program develop
 ## Technologies Used
 - OpenStack
 - powershell
+- python
 - Rocky9
 ## Installation and Usage
 
